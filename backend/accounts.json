@@ -1,0 +1,30 @@
+{
+  "nextId": 12,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Fernanda Fernandes",
+      "balance": 9000
+    },
+    {
+      "id": 3,
+      "name": "Joao Pedro",
+      "balance": 5.55
+    },
+    {
+      "id": 9,
+      "name": "Maya Valentim",
+      "balance": 25000
+    },
+    {
+      "id": 10,
+      "name": "Graca Maria",
+      "balance": 12000
+    },
+    {
+      "id": 11,
+      "name": "MAFE",
+      "balance": 10050
+    }
+  ]
+}

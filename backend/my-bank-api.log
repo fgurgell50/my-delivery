@@ -1,0 +1,183 @@
+2023-11-29T19:14:42.602Z [my-bank-api] info: API Started !
+2023-11-29T19:14:43.842Z [my-bank-api] info: API Started !
+2023-11-29T19:17:01.190Z [my-bank-api] info: API Started !
+2023-11-29T19:17:34.152Z [my-bank-api] info: API Started !
+2023-11-29T19:19:01.853Z [my-bank-api] info: API Started !
+2023-11-29T19:20:02.901Z [my-bank-api] info: API Started !
+2023-11-29T19:21:26.244Z [my-bank-api] info: POST /account - {"id":1,"name":"Pedro","balance":1550}
+2023-11-29T19:27:04.612Z [my-bank-api] info: API Started !
+2023-11-29T19:27:39.176Z [my-bank-api] info: API Started !
+2023-11-29T19:28:49.194Z [my-bank-api] info: API Started !
+2023-11-29T19:31:04.091Z [my-bank-api] info: API Started !
+2023-11-29T19:33:06.272Z [my-bank-api] info: API Started !
+2023-11-29T19:34:38.445Z [my-bank-api] info: API Started !
+2023-11-29T19:43:05.184Z [my-bank-api] info: API Started !
+2023-11-29T19:45:30.656Z [my-bank-api] info: API Started !
+2023-11-29T19:46:29.807Z [my-bank-api] info: API Started !
+2023-11-29T19:47:34.468Z [my-bank-api] info: API Started !
+2023-11-29T19:50:02.861Z [my-bank-api] info: API Started !
+2023-12-04T12:35:54.667Z [my-bank-api] info: API Started !
+2023-12-04T12:47:24.217Z [my-bank-api] info: API Started !
+2023-12-04T19:04:48.172Z [my-bank-api] info: POST /account - {"id":2,"name":"Maria","balance":550}
+2023-12-04T19:05:05.416Z [my-bank-api] info: PUT /account - {"id":1,"name":"Fernanda Gomes","balance":1100}
+2023-12-04T19:05:20.185Z [my-bank-api] error:  Id, Namee Balance são obrigatórios. 
+2023-12-04T19:07:00.107Z [my-bank-api] info: API Started !
+2023-12-04T19:07:04.980Z [my-bank-api] info: PATCH /updateBalance - {"id":1,"balance":2500.52}
+2023-12-04T19:07:12.819Z [my-bank-api] info: GET/account
+2023-12-04T19:07:21.768Z [my-bank-api] info: GET/account/:id
+2023-12-04T19:07:48.095Z [my-bank-api] info: DELETE/account/:id - 2
+2023-12-04T19:36:38.112Z [my-bank-api] info: API Started !
+2023-12-04T19:38:04.346Z [my-bank-api] info: API Started !
+2023-12-04T19:43:49.139Z [my-bank-api] info: API Started !
+2023-12-04T19:45:11.092Z [my-bank-api] info: API Started !
+2023-12-04T19:45:56.045Z [my-bank-api] info: API Started !
+2023-12-04T19:46:56.370Z [my-bank-api] info: API Started !
+2023-12-04T19:48:30.699Z [my-bank-api] info: API Started !
+2023-12-04T19:49:22.881Z [my-bank-api] info: API Started !
+2023-12-04T19:49:44.635Z [my-bank-api] info: API Started !
+2023-12-04T19:50:36.521Z [my-bank-api] info: POST /account - {"id":3,"name":"Joao Pedro","balance":5.55}
+2023-12-05T00:59:54.267Z [my-bank-api] info: API Started !
+2023-12-05T01:00:29.698Z [my-bank-api] info: API Started !
+2023-12-05T01:00:35.969Z [my-bank-api] info: API Started !
+2023-12-05T01:01:04.478Z [my-bank-api] info: API Started !
+2023-12-05T01:04:49.373Z [my-bank-api] info: API Started !
+2023-12-05T01:08:25.701Z [my-bank-api] info: API Started !
+2023-12-05T01:09:29.714Z [my-bank-api] info: API Started !
+2023-12-05T01:10:02.910Z [my-bank-api] info: API Started !
+2023-12-05T01:10:53.593Z [my-bank-api] info: POST /account - {"id":4,"name":"Gracia","balance":5550}
+2023-12-05T01:11:03.515Z [my-bank-api] info: PUT /account - {"id":1,"name":"Fernanda Gomes","balance":11100}
+2023-12-05T01:11:17.877Z [my-bank-api] info: PATCH /updateBalance - {"id":1,"balance":3000}
+2023-12-05T01:11:23.452Z [my-bank-api] info: GET/account
+2023-12-05T01:11:28.577Z [my-bank-api] info: GET/account/:id
+2023-12-05T01:11:32.642Z [my-bank-api] info: DELETE/account/:id - 2
+2023-12-05T01:12:01.708Z [my-bank-api] info: GET/account
+2023-12-05T01:12:22.216Z [my-bank-api] info: DELETE/account/:id - 4
+2023-12-05T01:14:50.448Z [my-bank-api] info: API Started !
+2023-12-05T01:25:40.952Z [my-bank-api] info: API Started !
+2023-12-05T01:26:38.054Z [my-bank-api] info: API Started !
+2023-12-05T01:27:08.125Z [my-bank-api] info: API Started !
+2023-12-05T01:27:20.548Z [my-bank-api] info: API Started !
+2023-12-05T01:27:51.859Z [my-bank-api] info: API Started !
+2023-12-05T01:28:11.979Z [my-bank-api] info: API Started !
+2023-12-05T01:28:45.354Z [my-bank-api] info: API Started !
+2023-12-05T01:30:50.623Z [my-bank-api] info: API Started !
+2023-12-05T01:31:02.298Z [my-bank-api] info: POST /account - {"id":5,"name":"Pedro","balance":5050}
+2023-12-05T01:31:24.376Z [my-bank-api] info: GET/account
+2023-12-05T01:33:43.714Z [my-bank-api] info: API Started !
+2023-12-05T01:34:22.950Z [my-bank-api] info: API Started !
+2023-12-05T01:34:25.052Z [my-bank-api] info: API Started !
+2023-12-05T01:34:32.752Z [my-bank-api] info: API Started !
+2023-12-05T01:35:27.301Z [my-bank-api] info: API Started !
+2023-12-05T01:36:04.512Z [my-bank-api] info: API Started !
+2023-12-05T01:36:43.575Z [my-bank-api] info: API Started !
+2023-12-05T01:37:16.180Z [my-bank-api] info: API Started !
+2023-12-05T01:38:39.270Z [my-bank-api] info: API Started !
+2023-12-05T01:40:18.379Z [my-bank-api] info: API Started !
+2023-12-05T01:42:00.592Z [my-bank-api] info: API Started !
+2023-12-05T01:42:33.965Z [my-bank-api] info: API Started !
+2023-12-05T01:44:08.693Z [my-bank-api] info: API Started !
+2023-12-05T01:44:49.047Z [my-bank-api] info: API Started !
+2023-12-05T01:51:04.964Z [my-bank-api] info: API Started !
+2023-12-05T01:52:43.802Z [my-bank-api] info: API Started !
+2023-12-05T01:53:10.136Z [my-bank-api] info: API Started !
+2023-12-05T01:53:16.892Z [my-bank-api] info: API Started !
+2023-12-05T01:54:05.605Z [my-bank-api] info: API Started !
+2023-12-05T01:55:41.848Z [my-bank-api] info: API Started !
+2023-12-05T01:56:36.578Z [my-bank-api] info: API Started !
+2023-12-05T01:56:45.383Z [my-bank-api] info: API Started !
+2023-12-05T01:56:58.993Z [my-bank-api] info: API Started !
+2023-12-05T01:57:38.985Z [my-bank-api] info: API Started !
+2023-12-05T01:58:23.633Z [my-bank-api] info: POST /account - {"id":6,"name":"MAFE","balance":7050}
+2023-12-05T01:58:35.528Z [my-bank-api] info: PUT /account - {"id":1,"name":"Fernanda Gomes","balance":100}
+2023-12-05T01:58:41.907Z [my-bank-api] error: res.sed is not a function
+2023-12-05T01:59:24.180Z [my-bank-api] info: API Started !
+2023-12-05T01:59:28.044Z [my-bank-api] info: PATCH /updateBalance - {"id":1,"balance":3000}
+2023-12-05T01:59:34.886Z [my-bank-api] info: GET/account
+2023-12-05T01:59:45.549Z [my-bank-api] info: GET/account/:id
+2023-12-05T02:00:00.441Z [my-bank-api] info: GET/account
+2023-12-05T02:01:45.665Z [my-bank-api] info: API Started !
+2023-12-05T02:02:07.128Z [my-bank-api] info: API Started !
+2023-12-05T02:04:19.211Z [my-bank-api] info: API Started !
+2023-12-05T02:06:40.202Z [my-bank-api] info: API Started !
+2023-12-05T02:10:37.446Z [my-bank-api] info: API Started !
+2023-12-05T02:11:02.141Z [my-bank-api] info: GET/account
+2023-12-05T02:12:16.946Z [my-bank-api] info: API Started !
+2023-12-05T02:12:23.315Z [my-bank-api] info: API Started !
+2023-12-05T02:12:42.103Z [my-bank-api] info: API Started !
+2023-12-05T02:13:58.872Z [my-bank-api] info: API Started !
+2023-12-05T02:15:44.855Z [my-bank-api] info: API Started !
+2023-12-05T02:16:05.869Z [my-bank-api] info: API Started !
+2023-12-05T02:16:35.912Z [my-bank-api] info: API Started !
+2023-12-05T02:17:22.425Z [my-bank-api] info: API Started !
+2023-12-05T02:18:42.097Z [my-bank-api] info: API Started !
+2023-12-05T02:18:57.359Z [my-bank-api] info: API Started !
+2023-12-05T02:19:15.829Z [my-bank-api] info: API Started !
+2023-12-05T02:19:17.363Z [my-bank-api] info: API Started !
+2023-12-05T02:20:42.044Z [my-bank-api] info: API Started !
+2023-12-05T02:21:43.357Z [my-bank-api] info: API Started !
+2023-12-05T02:22:17.045Z [my-bank-api] info: API Started !
+2023-12-05T02:23:10.373Z [my-bank-api] info: API Started !
+2023-12-05T02:23:29.373Z [my-bank-api] info: API Started !
+2023-12-05T02:25:56.648Z [my-bank-api] info: API Started !
+2023-12-05T02:29:42.237Z [my-bank-api] info: API Started !
+2023-12-05T02:30:02.515Z [my-bank-api] info: API Started !
+2023-12-05T02:30:29.373Z [my-bank-api] info: API Started !
+2023-12-05T02:31:15.509Z [my-bank-api] info: API Started !
+2023-12-05T02:33:08.855Z [my-bank-api] info: POST /account - {"id":7,"name":"PEPE","balance":9050}
+2023-12-05T02:33:34.932Z [my-bank-api] info: PUT /account - {"id":1,"name":"Fernanda Fernandes","balance":1009}
+2023-12-05T02:33:43.917Z [my-bank-api] error: accounts.find is not a function
+2023-12-05T02:35:49.214Z [my-bank-api] error: accounts.find is not a function
+2023-12-05T02:39:03.163Z [my-bank-api] info: API Started !
+2023-12-05T02:39:24.277Z [my-bank-api] info: API Started !
+2023-12-05T02:39:29.105Z [my-bank-api] info: PATCH /updateBalance - {"id":1,"balance":9000}
+2023-12-05T02:39:35.362Z [my-bank-api] info: GET/account
+2023-12-05T02:39:40.177Z [my-bank-api] info: GET/account/:id
+2023-12-05T02:39:46.340Z [my-bank-api] info: GET/account
+2023-12-05T02:40:01.970Z [my-bank-api] info: GET/account
+2023-12-05T14:15:56.063Z [my-bank-api] info: API Started !
+2023-12-05T14:31:14.152Z [my-bank-api] info: API Started !
+2023-12-05T14:32:31.612Z [my-bank-api] info: API Started !
+2023-12-05T14:33:34.798Z [my-bank-api] info: API Started !
+2023-12-05T14:34:20.487Z [my-bank-api] info: API Started !
+2023-12-05T15:09:07.049Z [my-bank-api] info: API Started !
+2023-12-05T15:10:37.330Z [my-bank-api] info: API Started !
+2023-12-05T15:11:18.344Z [my-bank-api] info: API Started !
+2023-12-05T15:14:21.983Z [my-bank-api] info: API Started !
+2023-12-05T15:15:18.511Z [my-bank-api] info: API Started !
+2023-12-05T17:32:31.611Z [my-bank-api] info: API Started !
+2023-12-05T17:36:20.089Z [my-bank-api] info: API Started !
+2023-12-05T17:41:27.571Z [my-bank-api] info: API Started !
+2023-12-05T17:41:36.707Z [my-bank-api] info: API Started !
+2023-12-05T17:41:59.960Z [my-bank-api] info: API Started !
+2023-12-05T17:42:19.169Z [my-bank-api] info: API Started !
+2023-12-05T17:42:24.969Z [my-bank-api] info: API Started !
+2023-12-05T17:43:02.138Z [my-bank-api] info: API Started !
+2023-12-05T17:43:35.027Z [my-bank-api] info: API Started !
+2023-12-05T17:45:58.677Z [my-bank-api] info: API Started !
+2023-12-05T17:51:51.348Z [my-bank-api] info: API Started !
+2023-12-05T17:56:10.245Z [my-bank-api] info: API Started !
+2023-12-05T17:58:13.583Z [my-bank-api] info: API Started !
+2023-12-05T17:58:25.379Z [my-bank-api] info: API Started !
+2023-12-05T18:02:56.881Z [my-bank-api] info: API Started !
+2023-12-05T18:06:20.238Z [my-bank-api] info: API Started !
+2023-12-05T18:08:11.180Z [my-bank-api] info: API Started !
+2023-12-05T18:08:22.175Z [my-bank-api] info: API Started !
+2023-12-05T18:08:43.060Z [my-bank-api] info: API Started !
+2023-12-05T18:09:47.773Z [my-bank-api] info: API Started !
+2023-12-05T18:10:27.831Z [my-bank-api] info: API Started !
+2023-12-05T18:12:11.673Z [my-bank-api] info: API Started !
+2023-12-05T18:16:06.234Z [my-bank-api] info: API Started !
+2023-12-05T18:22:15.495Z [my-bank-api] info: API Started !
+2023-12-05T18:23:08.625Z [my-bank-api] info: API Started !
+2023-12-05T18:24:14.258Z [my-bank-api] info: API Started !
+2023-12-05T18:24:21.685Z [my-bank-api] info: API Started !
+2023-12-05T18:24:46.455Z [my-bank-api] info: API Started !
+2023-12-05T18:24:57.126Z [my-bank-api] info: API Started !
+2023-12-05T18:29:40.407Z [my-bank-api] info: API Started !
+2023-12-05T18:29:44.074Z [my-bank-api] info: API Started !
+2023-12-05T18:30:02.822Z [my-bank-api] info: API Started !
+2023-12-05T18:48:01.153Z [my-bank-api] info: API Started !
+2023-12-05T19:09:52.464Z [my-bank-api] info: POST /account - {"id":11,"name":"MAFE","balance":10050}
+2023-12-05T19:25:52.003Z [my-bank-api] info: API Started !
+2023-12-05T19:36:23.300Z [my-bank-api] info: API Started !
+2023-12-05T19:36:25.073Z [my-bank-api] info: API Started !

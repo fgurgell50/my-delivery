@@ -1,0 +1,186 @@
+2023-12-05T21:04:09.480Z [my-delivery-api] error: ENOENT: no such file or directory, open 'pedidos.json'
+2023-12-05T21:05:21.978Z [my-delivery-api] error: ENOENT: no such file or directory, open 'pedidos.json'
+2023-12-05T21:06:27.764Z [my-delivery-api] info: API Started !
+2023-12-05T21:09:03.410Z [my-delivery-api] info: API Started !
+2023-12-05T21:12:12.252Z [my-delivery-api] info: API Started !
+2023-12-05T21:13:02.151Z [my-delivery-api] error:  Name e Balance são obrigatórios. 
+2023-12-05T21:13:31.098Z [my-delivery-api] info: API Started !
+2023-12-05T21:13:48.472Z [my-delivery-api] info: API Started !
+2023-12-05T21:13:54.507Z [my-delivery-api] error:  Name e Balance são obrigatórios. 
+2023-12-05T21:14:14.160Z [my-delivery-api] info: API Started !
+2023-12-05T21:14:18.949Z [my-delivery-api] error: Cannot read properties of undefined (reading 'push')
+2023-12-05T21:17:00.498Z [my-delivery-api] info: API Started !
+2023-12-05T21:17:04.242Z [my-delivery-api] error: account is not defined
+2023-12-05T21:17:45.758Z [my-delivery-api] info: API Started !
+2023-12-05T21:17:51.188Z [my-delivery-api] error: account is not defined
+2023-12-05T21:18:48.224Z [my-delivery-api] info: API Started !
+2023-12-05T21:19:20.820Z [my-delivery-api] info: API Started !
+2023-12-05T21:19:24.860Z [my-delivery-api] info: POST /order - {"id":503,"produto":"Pizza Muçarela","valor":57,"entregue":false,"timestamp":"2023-12-05T21:19:24.847Z"}
+2023-12-05T21:20:26.024Z [my-delivery-api] info: API Started !
+2023-12-05T21:20:31.391Z [my-delivery-api] info: POST /order - {"id":504,"cliente":"Fred GUrgel","produto":"Pizza Muçarela","valor":57,"entregue":false,"timestamp":"2023-12-05T21:20:31.381Z"}
+2023-12-05T21:21:28.684Z [my-delivery-api] info: GET/orders
+2023-12-05T21:22:35.718Z [my-delivery-api] info: GET/order/:id
+2023-12-05T21:24:31.170Z [my-delivery-api] error:  Id, Name e Balance são obrigatórios. 
+2023-12-05T21:25:33.142Z [my-delivery-api] info: API Started !
+2023-12-05T21:25:35.800Z [my-delivery-api] info: PUT /updateOrder - {"id":504,"cliente":"Fred GUrgel","produto":"Pizza Calabresa","valor":65}
+2023-12-05T21:25:49.916Z [my-delivery-api] info: GET/order/:id
+2023-12-05T21:26:02.805Z [my-delivery-api] info: PUT /updateOrder - {"id":504,"cliente":"Fred Gurgel","produto":"Pizza Calabresa","valor":65}
+2023-12-05T21:26:57.362Z [my-delivery-api] info: API Started !
+2023-12-05T21:29:36.024Z [my-delivery-api] info: PUT /updateOrder - {"id":504,"cliente":"Fred Gurgel","produto":"Pizza Calabresa","entregue":true,"valor":65}
+2023-12-05T21:32:56.159Z [my-delivery-api] info: API Started !
+2023-12-05T21:32:59.442Z [my-delivery-api] error: order is not defined
+2023-12-05T21:33:48.419Z [my-delivery-api] info: API Started !
+2023-12-05T21:33:51.020Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":504,"entregue":false}
+2023-12-05T21:33:58.402Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":504,"entregue":true}
+2023-12-05T21:34:49.558Z [my-delivery-api] error: DeliveryService.deleteOrder is not a function
+2023-12-05T21:36:16.484Z [my-delivery-api] info: API Started !
+2023-12-05T21:36:39.736Z [my-delivery-api] info: GET/orders
+2023-12-05T21:38:43.409Z [my-delivery-api] info: API Started !
+2023-12-05T21:40:42.918Z [my-delivery-api] error: Registro nao encontrado
+2023-12-05T21:41:04.768Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":503,"entregue":"banana"}
+2023-12-05T21:41:32.711Z [my-delivery-api] info: API Started !
+2023-12-05T21:41:36.128Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":503,"entregue":"banana"}
+2023-12-05T21:42:58.794Z [my-delivery-api] info: API Started !
+2023-12-05T21:43:17.175Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":503,"entregue":"jaca"}
+2023-12-05T21:43:35.730Z [my-delivery-api] info: API Started !
+2023-12-05T21:43:38.169Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":503,"entregue":"jaca"}
+2023-12-05T21:43:41.935Z [my-delivery-api] info: API Started !
+2023-12-05T21:44:46.020Z [my-delivery-api] info: API Started !
+2023-12-05T21:44:49.432Z [my-delivery-api] error:  Id e Status de Entrega são obrigatórios. 
+2023-12-05T21:45:01.481Z [my-delivery-api] info: PATCH /updateStatusOrder - {"id":503,"entregue":false}
+2023-12-05T21:45:05.178Z [my-delivery-api] info: API Started !
+2023-12-06T12:37:20.556Z [my-delivery-api] info: API Started !
+2023-12-06T12:40:22.351Z [my-delivery-api] info: API Started !
+2023-12-06T12:43:49.296Z [my-delivery-api] info: API Started !
+2023-12-06T12:49:24.625Z [my-delivery-api] info: API Started !
+2023-12-06T12:52:30.809Z [my-delivery-api] info: API Started !
+2023-12-06T12:53:38.496Z [my-delivery-api] info: API Started !
+2023-12-06T12:53:40.828Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T12:53:40.843Z [my-delivery-api] info: GET/orderbycliente/:cliente
+2023-12-06T12:57:17.717Z [my-delivery-api] info: API Started !
+2023-12-06T12:57:21.236Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T12:57:21.250Z [my-delivery-api] info: GET/orderbycliente/:cliente
+2023-12-06T13:00:46.064Z [my-delivery-api] info: API Started !
+2023-12-06T13:00:53.188Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T13:00:53.218Z [my-delivery-api] info: GET/orderbycliente/:cliente
+2023-12-06T13:09:27.968Z [my-delivery-api] info: API Started !
+2023-12-06T13:10:18.497Z [my-delivery-api] info: API Started !
+2023-12-06T13:11:27.833Z [my-delivery-api] info: GET /totalvaluebycliente - Cliente: Quirino Barra, Total: 331
+2023-12-06T13:11:27.836Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:14:58.431Z [my-delivery-api] info: API Started !
+2023-12-06T13:15:10.721Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T13:15:10.725Z [my-delivery-api] error: Cannot read properties of undefined (reading 'filter')
+2023-12-06T13:15:26.265Z [my-delivery-api] info: API Started !
+2023-12-06T13:15:30.197Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T13:15:30.207Z [my-delivery-api] info: GET/orderbycliente/:cliente
+2023-12-06T13:18:22.885Z [my-delivery-api] info: API Started !
+2023-12-06T13:18:33.403Z [my-delivery-api] info: GET /orderbycliente - Cliente: Quirino Barra, Resultado: {"totalValue":331,"orders":[{"id":7,"cliente":"Quirino Barra","produto":"Pizza Calabresa","valor":30.5,"entregue":true,"timestamp":"2021-05-02T19:48:09.765Z"},{"id":34,"cliente":"Quirino Barra","produto":"Pizza Muçarela","valor":26,"entregue":true,"timestamp":"2021-05-02T19:48:09.765Z"},{"id":41,"cliente":"Quirino Barra","produto":"Pizza Muçarela","valor":26,"entregue":true,"timestamp":"2021-05-02T19:48:09.765Z"},{"id":150,"cliente":"Quirino Barra","produto":"Pizza Calabresa","valor":30.5,"entregue":true,"timestamp":"2021-05-02T19:48:09.766Z"},{"id":161,"cliente":"Quirino Barra","produto":"Pizza Atum","valor":32,"entregue":true,"timestamp":"2021-05-02T19:48:09.766Z"},{"id":199,"cliente":"Quirino Barra","produto":"Pizza Pepperoni","valor":32.5,"entregue":true,"timestamp":"2021-05-02T19:48:09.766Z"},{"id":345,"cliente":"Quirino Barra","produto":"Pizza a Moda","valor":31,"entregue":true,"timestamp":"2021-05-02T19:48:09.766Z"},{"id":391,"cliente":"Quirino Barra","produto":"Pizza Calabresa","valor":30.5,"entregue":true,"timestamp":"2021-05-02T19:48:09.767Z"},{"id":463,"cliente":"Quirino Barra","produto":"Pizza Calabresa","valor":30.5,"entregue":false,"timestamp":"2021-05-02T19:48:09.767Z"},{"id":479,"cliente":"Quirino Barra","produto":"Pizza Pepperoni","valor":32.5,"entregue":true,"timestamp":"2021-05-02T19:48:09.767Z"},{"id":499,"cliente":"Quirino Barra","produto":"Pizza Frango com Catupiry","valor":29,"entregue":true,"timestamp":"2021-05-02T19:48:09.767Z"}]}
+2023-12-06T13:18:33.407Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:24:04.568Z [my-delivery-api] info: API Started !
+2023-12-06T13:24:13.230Z [my-delivery-api] info: GET /getSumOrders - Cliente: Quirino Barra, Valor Total: 331
+2023-12-06T13:24:13.241Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:24:17.400Z [my-delivery-api] info: GET /getSumOrders - Cliente: Quirino Barra, Valor Total: 331
+2023-12-06T13:24:17.405Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:25:15.615Z [my-delivery-api] info: API Started !
+2023-12-06T13:25:22.963Z [my-delivery-api] info: GET /getSumOrders - Cliente: Quirino Barra, Valor Total: 331
+2023-12-06T13:25:22.974Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:25:39.394Z [my-delivery-api] info: API Started !
+2023-12-06T13:27:19.835Z [my-delivery-api] info: API Started !
+2023-12-06T13:27:43.344Z [my-delivery-api] info: API Started !
+2023-12-06T13:28:07.616Z [my-delivery-api] info: API Started !
+2023-12-06T13:28:33.967Z [my-delivery-api] info: API Started !
+2023-12-06T13:29:20.066Z [my-delivery-api] info: API Started !
+2023-12-06T13:29:32.293Z [my-delivery-api] info: API Started !
+2023-12-06T13:30:42.158Z [my-delivery-api] info: API Started !
+2023-12-06T13:32:21.069Z [my-delivery-api] info: GET/orders
+2023-12-06T13:32:43.053Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T13:32:43.058Z [my-delivery-api] info: GET/getOrderByProduto/:produto
+2023-12-06T13:34:01.411Z [my-delivery-api] info: API Started !
+2023-12-06T13:34:08.248Z [my-delivery-api] info: GET /getSumOrders - Cliente: Quirino Barra, Valor Total: 331
+2023-12-06T13:34:08.254Z [my-delivery-api] info: GET/order/:id
+2023-12-06T13:35:18.566Z [my-delivery-api] info: API Started !
+2023-12-06T13:36:44.958Z [my-delivery-api] info: API Started !
+2023-12-06T13:36:51.775Z [my-delivery-api] info: API Started !
+2023-12-06T13:37:15.242Z [my-delivery-api] info: API Started !
+2023-12-06T13:37:23.694Z [my-delivery-api] info: API Started !
+2023-12-06T13:38:56.113Z [my-delivery-api] info: API Started !
+2023-12-06T13:39:14.504Z [my-delivery-api] info: API Started !
+2023-12-06T13:40:20.028Z [my-delivery-api] info: API Started !
+2023-12-06T13:40:29.024Z [my-delivery-api] info: API Started !
+2023-12-06T13:41:17.429Z [my-delivery-api] info: API Started !
+2023-12-06T13:42:09.759Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Muçarela, Valor Total: 2251
+2023-12-06T13:42:09.762Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T13:43:09.298Z [my-delivery-api] info: API Started !
+2023-12-06T13:43:43.529Z [my-delivery-api] info: API Started !
+2023-12-06T13:43:46.054Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Muçarela, Valor Total: 2251
+2023-12-06T13:43:46.067Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T13:58:07.505Z [my-delivery-api] info: API Started !
+2023-12-06T13:58:24.188Z [my-delivery-api] info: API Started !
+2023-12-06T13:59:48.684Z [my-delivery-api] info: API Started !
+2023-12-06T14:01:00.634Z [my-delivery-api] info: API Started !
+2023-12-06T14:01:15.588Z [my-delivery-api] info: GET/mostsoldorders
+2023-12-06T14:02:36.743Z [my-delivery-api] info: API Started !
+2023-12-06T14:02:55.948Z [my-delivery-api] info: API Started !
+2023-12-06T14:03:26.327Z [my-delivery-api] info: API Started !
+2023-12-06T14:04:36.464Z [my-delivery-api] info: API Started !
+2023-12-06T14:04:38.227Z [my-delivery-api] info: API Started !
+2023-12-06T14:05:53.082Z [my-delivery-api] info: API Started !
+2023-12-06T14:06:04.091Z [my-delivery-api] info: API Started !
+2023-12-06T14:06:15.602Z [my-delivery-api] info: API Started !
+2023-12-06T14:06:28.241Z [my-delivery-api] info: API Started !
+2023-12-06T14:07:35.047Z [my-delivery-api] info: API Started !
+2023-12-06T14:08:01.813Z [my-delivery-api] info: API Started !
+2023-12-06T14:08:59.116Z [my-delivery-api] info: GET/orderstrure/:entregue
+2023-12-06T14:09:24.450Z [my-delivery-api] info: API Started !
+2023-12-06T14:09:26.844Z [my-delivery-api] info: GET/orderstrure/:entregue
+2023-12-06T14:10:10.241Z [my-delivery-api] info: API Started !
+2023-12-06T14:10:29.741Z [my-delivery-api] info: API Started !
+2023-12-06T14:10:47.832Z [my-delivery-api] info: API Started !
+2023-12-06T14:13:05.534Z [my-delivery-api] info: API Started !
+2023-12-06T14:13:23.663Z [my-delivery-api] info: API Started !
+2023-12-06T14:14:14.467Z [my-delivery-api] error: Status de Entrega é obrigatórios.
+2023-12-06T14:15:01.238Z [my-delivery-api] error: Status de Entrega é obrigatórios.
+2023-12-06T14:15:34.382Z [my-delivery-api] info: API Started !
+2023-12-06T14:15:37.166Z [my-delivery-api] error: Status de Entrega é obrigatórios.
+2023-12-06T14:16:42.923Z [my-delivery-api] info: API Started !
+2023-12-06T14:16:49.221Z [my-delivery-api] error: rreq is not defined
+2023-12-06T14:16:59.396Z [my-delivery-api] info: API Started !
+2023-12-06T14:17:04.443Z [my-delivery-api] error: rq is not defined
+2023-12-06T14:17:39.368Z [my-delivery-api] info: API Started !
+2023-12-06T14:17:43.390Z [my-delivery-api] info: GET/mostsoldorders/:entregue
+2023-12-06T14:19:29.114Z [my-delivery-api] info: GET/mostsoldorders/:entregue
+2023-12-06T14:20:23.558Z [my-delivery-api] info: GET /getSumOrders - Cliente: Tália Simas, Valor Total: 356.5
+2023-12-06T14:20:23.559Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:23:18.400Z [my-delivery-api] info: GET /getSumOrders - Cliente: Clotilde Godoy, Valor Total: 413
+2023-12-06T14:23:18.402Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:24:47.712Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Calabresa, Valor Total: 1982.5
+2023-12-06T14:24:47.712Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:29:47.728Z [my-delivery-api] info: API Started !
+2023-12-06T14:30:04.077Z [my-delivery-api] error: Nenhum pedido encontrado para o cliente especificado
+2023-12-06T14:30:21.515Z [my-delivery-api] info: API Started !
+2023-12-06T14:30:25.548Z [my-delivery-api] info: GET /getSumOrders - Cliente: Clotilde Godoy, Valor Total: 381
+2023-12-06T14:30:25.553Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:30:54.130Z [my-delivery-api] info: API Started !
+2023-12-06T14:31:03.156Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Calabresa, Valor Total: 1799.5
+2023-12-06T14:31:03.164Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:31:31.592Z [my-delivery-api] info: GET /getSumOrders - Cliente: Tália Simas, Valor Total: 325.5
+2023-12-06T14:31:31.595Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:32:00.052Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Frango com Catupiry, Valor Total: 1914
+2023-12-06T14:32:00.053Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:32:34.874Z [my-delivery-api] info: GET/mostsoldorders/:entregue
+2023-12-06T14:33:33.697Z [my-delivery-api] info: GET /getSumOrders - Cliente: Rosaura Azenha, Valor Total: 215.5
+2023-12-06T14:33:33.700Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:34:38.513Z [my-delivery-api] info: POST /order - {"id":501,"cliente":"Rosaura Azenha","produto":"Pizza Pepperoni","valor":32.5,"entregue":false,"timestamp":"2023-12-06T14:34:38.507Z"}
+2023-12-06T14:35:44.696Z [my-delivery-api] error:  Id, Cliente e Produto e Valor são obrigatórios. 
+2023-12-06T14:36:08.131Z [my-delivery-api] info: PUT /updateOrder - {"id":501,"cliente":"Rosaura Azenha","produto":"Pizza Pepperoni","valor":32.5,"entregue":true}
+2023-12-06T14:36:16.419Z [my-delivery-api] info: GET /getSumOrders - Cliente: Rosaura Azenha, Valor Total: 248
+2023-12-06T14:36:16.420Z [my-delivery-api] info: GET/order/:id
+2023-12-06T14:37:37.066Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Muçarela, Valor Total: 1976
+2023-12-06T14:37:37.067Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:38:34.383Z [my-delivery-api] info: Passamos da Validacao do Controller
+2023-12-06T14:38:34.386Z [my-delivery-api] info: GET/getOrderByProduto/:produto
+2023-12-06T14:38:51.407Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Atum, Valor Total: 2080
+2023-12-06T14:38:51.409Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:40:03.231Z [my-delivery-api] info: GET /getSumOrdersByProduct - Produto: Pizza Atum, Valor Total: 2048
+2023-12-06T14:40:03.231Z [my-delivery-api] info: GET/ordersbyproduct/:produto
+2023-12-06T14:40:30.246Z [my-delivery-api] info: GET/order/:id

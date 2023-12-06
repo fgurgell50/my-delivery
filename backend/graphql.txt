@@ -1,0 +1,44 @@
+http://localhost:3000/graphql
+
+{
+  getAccount(id:3){
+    id,
+    name,
+    balance
+  }
+  
+  getAccounts {
+    id,
+    name,
+    balance
+  }
+}
+
+ mutation{
+    createAccount(account: {
+      name: "Ice"
+      balance: 10000
+    })
+  {
+    id,
+    name,
+    balance
+  }
+  }
+
+   mutation{
+    updateAccount(account: {
+      id:8
+      name: "Ice Valentim"
+      balance: 15000
+    })
+  	{
+      id
+      name
+      balance
+    }
+  }
+
+  mutation{
+  deleteAccount(id:8)
+}
